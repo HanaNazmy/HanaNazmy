@@ -20,7 +20,7 @@ I enjoy collaborating with designers and backend teams, mentoring developers, an
 
 ## 🔭 I’m currently working on
 
-- Developing **Shopify e-commerce websites** for beauty and fashion brands  
+- Developing **Shopify e-commerce websites** for **beauty and F&B (food & beverage)** brands
 - Building reusable React components and internal tools  
 
 ## 🌱 I’m currently learning
