@@ -48,4 +48,9 @@ I enjoy collaborating with designers and backend teams, mentoring developers, an
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/hana-hesham-nazmy/"><img src="https://raw.githubusercontent.com/HanaNazmy/HanaNazmy/main/images/linkedin.svg" alt="icon | LinkedIn" width=
+
+<a href="https://www.linkedin.com/in/hana-hesham-nazmy/"><img src="https://raw.githubusercontent.com/HanaNazmy/HanaNazmy/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>  
+I’m **open to new opportunities** — feel free to reach out if you’re looking for a motivated frontend engineer who loves building elegant, scalable interfaces and e-commerce experiences!
+
+📧 hana98heshamnazmy@gmail.com  
+🌍 [github.com/HanaNazmy](https://github.com/HanaNazmy)
